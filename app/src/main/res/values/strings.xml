@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tela de Login</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="ainda_n_o_cadastrado_cadastre_se">Ainda não é cadastrado? Cadastre-se</string>
+    <string name="esqueceu_sua_senha">Esqueceu sua senha?</string>
+    <string name="login">Login</string>
+    <string name="aprova_certo">Aprova Certo</string>
+</resources>
